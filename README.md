@@ -1,6 +1,6 @@
 # Board-Games
-made on code.org app lab
-
+This project won the $100 2nd place prize in the ACM Summer Challenge 2022 for the novice dvision.
+The logic was implemented from scratch, made on code.org app lab.
 
 
 
